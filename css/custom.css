@@ -1,0 +1,15 @@
+.w-30 {
+  width: 30px;
+}
+
+.w-160 {
+  width: 160px;
+}
+
+.float-none {
+  float: none !important;
+}
+
+.m-auto {
+  margin: auto !important;
+}
